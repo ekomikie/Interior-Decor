@@ -181,7 +181,7 @@ function init(){
 
 
 $(window).on("load", function () {
-  $(".loader").fadeOut(3000);
+  $(".loader").fadeOut(2000);
   $(".main-content").fadeIn(4000);
 });
 
