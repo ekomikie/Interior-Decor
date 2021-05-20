@@ -138,8 +138,8 @@ header.is-scrolling{
 }
 
 header.is-scrolling .container{
-  padding-top: 16px;
-  padding-bottom: 16px;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 header.is-scrolling .container a{
@@ -1943,6 +1943,11 @@ textarea{
 }
 
 @media (min-width:768px){
+  
+   header.is-scrolling .container{
+  padding-top: 16px;
+  padding-bottom: 16px;
+  }
   .mobile-nav{
     display: none;
   }
