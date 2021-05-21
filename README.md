@@ -1,3 +1,3 @@
 # Interior-Decor
 
-ekomikie-interior-decor.netlify.app
+https://ekomikie-interior-decor.netlify.app/
